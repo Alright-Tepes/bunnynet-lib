@@ -1,7 +1,7 @@
 from bunnyhop import BunnyClient
 
 def main():
-    # BURAYA KENDİ API KEY'İNİZİ GİRİN
+    # ENTER YOUR API KEY HERE
     API_KEY = "YOUR-BUNNY-API-KEY-HERE"
     
     if API_KEY == "YOUR-BUNNY-API-KEY-HERE":
