@@ -10,10 +10,7 @@ A modern, pythonic client for Bunny.net API unofficial library.
 # Why did I write this library?
 
 1. I wrote this library because I wanted to make it easier to use the Bunny.net API.
-2. I didn’t like the official one — it felt kinda meh.
-3. Why not? :D
-
-Official BunnyNet Python library: https://github.com/qwigo/bunnyhop
+2. 3. Why not? :D
 
 Not: Maybe I can add this library to PyPI.
 
