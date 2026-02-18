@@ -10,7 +10,7 @@ A modern, pythonic client for Bunny.net API unofficial library.
 # Why did I write this library?
 
 1. I wrote this library because I wanted to make it easier to use the Bunny.net API.
-2. 3. Why not? :D
+2. Why not? :D
 
 Not: Maybe I can add this library to PyPI.
 
