@@ -1,4 +1,4 @@
-# Bunnyhop (New)
+# Bunnyhop Python Library
 
 A modern, pythonic client for Bunny.net API unofficial library.
 
